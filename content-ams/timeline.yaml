@@ -1,8 +1,8 @@
 # dates: always start the week on a Monday and end it on a Sunday
 ---
-startsAt: 0
+startsAt: 1
 timeline:
-  - title: Kick-Off Week
+  - title: Kick-Off Weeeeek
     description: |
       You join the community and get access to our learning platform edyoucated.
 

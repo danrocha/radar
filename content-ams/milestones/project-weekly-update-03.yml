@@ -1,7 +1,7 @@
 ---
 title: Weekly Project Update
 deadline: 2021-05-23T23:59:00+02:00
-type: checkpoint
+type: cutoff #or cutoff
 description: |
   Please submit your Weekly Project Update until the end of Sunday.
 
@@ -12,3 +12,13 @@ todos:
         type: form
         description: Use this form to submit your weekly update
         url: https://techlabsorg.typeform.com/to/m9cEYlR6
+      - title: Form
+        type: form
+        description: Use this form to submit your weekly update
+        url: https://techlabsorg.typeform.com/to/m9cEYlR6
+      - title: Form
+        type: form
+        description: Use this form to submit your weekly update
+        url: https://techlabsorg.typeform.com/to/m9cEYlR6
+  - name: Submit your weekly update
+

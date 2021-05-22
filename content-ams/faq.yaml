@@ -4,8 +4,8 @@ sections:
     questions:
       - title: What tools do I need? How do I get them?
         content: |
-          - We use Slack to stay in touch with each other. 
-          - Your learning material will be provided on our learning platform edyoucated. 
+          - We use Slack to stay in touch with each other.
+          - Your learning material will be provided on our learning platform edyoucated.
 
           We will provide instructions on how to join both our Slack workspace and edyoucated in our Kick-Off event.
       - title: How do I keep up-to-date?
@@ -143,9 +143,9 @@ sections:
       - title: Who else is behind TechLabs Berlin?
         content: |
           Our team for Berlin consists of the board team which organizes the semester structure, organization, partnerships and marketing. In addition to the board, there are four track leads for DS, AI, WebDev and UX and the mentors.
-          
+
           As we are part of the larger [TechLabs organization](https://techlabs.org), we are able to share the learning materials, journey, collaboration infrastructure, branding, and others with other TechLabs locations. Running TechLabs Berlin with such a small group wouldn't be possible without support from the TechLabs organization at all, so we're really thankful for that.
-          
+
           Also keep in mind that even if you're not based in Berlin, there may be a local TechLabs group near you. You can find out at [techlabs.org/apply](https://www.techlabs.org/apply).
       - title: "What's the difference between the #codeathome Bootcamp and TechLabs Berlin?"
         content: |
