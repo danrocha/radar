@@ -9,10 +9,11 @@ description: |
 
 meetings: []
 
-forms: []
-# - title: Feedback
-#   description: Please leave feedback for our first lightning talk!
-#   url: https://techlabsorg.typeform.com/to/Hv5QT1eR
+forms:
+  - title: Feedback
+    type: form
+    description: Please leave feedback for our first lightning talk!
+    url: https://techlabsorg.typeform.com/to/EDGqlTUv
 resources:
   []
   # - title: Call Recording
